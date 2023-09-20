@@ -2,7 +2,7 @@
 Cv de Abdelhafid - Etudiant en informatique.
 ## Compétences
 ### systeme
-window serveur
+windows serveur
 linux
 V2X
 ### Dev
