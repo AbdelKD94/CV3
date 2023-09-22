@@ -1,7 +1,7 @@
 # CV
 Cv de Abdelhafid - Etudiant en informatique.
 ## Compétences
-J'ai des compétences en informatique et en cybersécurité
+J'ai des compétences en informatique et en cybersécurité.
 
 ### Developpement
 
@@ -31,16 +31,10 @@ Systèmes embarqués
 Economie Droit Management
 RGPD
 Les agents économiques
-Autre
-Illustrator
 Management Unité commerciale
 
 ##### Langues
 Français, Anglais, Arabe
 
-### systeme
-windows serveur
-linux
-V2X
-### Dev
-javascript
+
+
