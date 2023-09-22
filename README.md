@@ -2,7 +2,9 @@
 Cv de Abdelhafid - Etudiant en informatique.
 ## Compétences
 J'ai des compétences en informatique et en cybersécurité
-###Developpement
+
+### Developpement
+
 SQL
 HTML
 CSS
@@ -11,17 +13,12 @@ Python
 Git
 C
 java
-systeme
+#### Systeme
 windows: Administration et maintenance. Powershell. ActiveDirectory
 Linux : Administration système. Bash
-Android
 MD5
-MSDos
-OS2/Warp
-Supervision Nagios, Zabbix
 Virtualisation
 Virtualbox
-AWS
 Docker
 VMWare
 qEMU
@@ -30,7 +27,6 @@ Cisco Packet Tracer
 Cisco Networking Essentials
 Routage
 Cybersecurité
-Rootme
 Systèmes embarqués
 Economie Droit Management
 RGPD
@@ -38,8 +34,8 @@ Les agents économiques
 Autre
 Illustrator
 Management Unité commerciale
-Tricot
-Langues
+
+##### Langues
 Français, Anglais, Arabe
 
 ### systeme
