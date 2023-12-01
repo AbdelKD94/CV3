@@ -1,6 +1,8 @@
 # CV - Kechad Abdelhafid
 ## Étudiant en informatique
 
+![Photo de profil](lien_vers_votre_photo)
+
 ---
 
 ### Compétences
