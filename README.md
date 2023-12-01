@@ -1,7 +1,7 @@
 # CV - Kechad Abdelhafid
 ## Étudiant en informatique
 
-![Photo de profil](lien_vers_votre_photo)
+![Photo de profil](https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE)
 
 ---
 
@@ -11,10 +11,10 @@
 
 ### Contact
 
-- Adresse: Votre adresse
-- Numéro de téléphone: Votre numéro
+- Adresse: 5 rue du moulin vert, Vitry-sur-Seine
+- Numéro de téléphone: 07 81 62 6 683
 
-[LinkedIn](lien_vers_votre_profil_LinkedIn)
+[LinkedIn](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
 
 #### Développement
 
@@ -33,7 +33,7 @@
 
 #### Cybersécurité
 
-- RGPD (Règlement Général sur la Protection des Données)
+- RGPD 
 - Protection de données personnelles
 
 ---
