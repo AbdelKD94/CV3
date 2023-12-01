@@ -1,36 +1,78 @@
-# CV
-Cv de Abdelhafid - Etudiant en informatique.
-## Compétences
-J'ai des compétences en informatique et en cybersécurité.
+# CV - Abdelhafid
+## Étudiant en informatique
 
-### Developpement
+---
 
--SQL
--HTML
--CSS
--Git
--C
--java
-#### Systeme
--windows: Administration et maintenance. Powershell. ActiveDirectory
--Linux : Administration système. Bash
--MD5
+### Compétences
+
+- Développement
+  - SQL
+  - HTML
+  - CSS
+  - Git
+  - Python
+
+- Réseau
+  - Cisco Packet Tracer
+  - Cisco Networking Essentials
+  - Systèmes embarqués
+  - Modèle OSI
+
+- Cybersécurité
+  - RGPD (Règlement Général sur la Protection des Données)
+  - Protection de données personnelles
+
+---
+
+### Études
+
+- L1 Administration et échanges internationaux
+- Bac général avec spécialités en
+  - Mathématiques
+  - Sciences économiques et sociales
+  - Histoire-Géographie, Géopolitique et Sciences politiques
+- Première année de BTS SIO (en cours)
+
+---
+
+### Certifications
+
+- PIX
+- Cisco Packet Tracer
+
+---
+
+### Développement Système
+
+#### Système
+
+- Windows
+  - Administration et maintenance
+  - PowerShell
+  - Active Directory
+- Linux
+  - Administration système
+  - Bash
+  - MD5
+
 #### Virtualisation
--Virtualbox
--Docker
--VMWare
-##### Réseau
--Cisco Packet Tracer
-Cisco Networking Essentials
-Cybersecurité
-Systèmes embarqués
-Economie Droit Management
-RGPD
-Les agents économiques
-Management Unité commerciale
 
-###### Langues
-Français, Anglais, Arabe
+- Virtualbox
+- Docker
+- VMWare
 
+---
 
+### Langues
 
+- Français
+- Anglais
+- Arabe
+
+---
+
+### Management
+
+- Économie
+- Droit
+- Management Unité Commerciale
