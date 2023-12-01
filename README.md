@@ -1,26 +1,29 @@
-# CV - Abdelhafid
+# CV - Kechad Abdelhafid
 ## Étudiant en informatique
 
 ---
 
 ### Compétences
 
-- Développement
-  - SQL
-  - HTML
-  - CSS
-  - Git
-  - Python
+#### Développement
 
-- Réseau
-  - Cisco Packet Tracer
-  - Cisco Networking Essentials
-  - Systèmes embarqués
-  - Modèle OSI
+- SQL
+- HTML
+- CSS
+- Git
+- Python
 
-- Cybersécurité
-  - RGPD (Règlement Général sur la Protection des Données)
-  - Protection de données personnelles
+#### Réseau
+
+- Cisco Packet Tracer
+- Cisco Networking Essentials
+- Systèmes embarqués
+- Modèle OSI
+
+#### Cybersécurité
+
+- RGPD (Règlement Général sur la Protection des Données)
+- Protection de données personnelles
 
 ---
 
@@ -77,7 +80,19 @@
 - Droit
 - Management Unité Commerciale
 
-- ### Projets
+---
 
-- - [Les paniers gourmands ](https://multi-taches.github.io/SIO1_GRP1_LPG/a_LPG1/) : 
+### Veille
+
+- Sécurité informatique
+- Intelligence artificielle et Machine Learning
+- Cloud Computing
+- Développement Web
+- Privacy Tech
+
+---
+
+### Projets
+
+- [Les paniers gourmands](https://multi-taches.github.io/SIO1_GRP1_LPG/a_LPG1/) :
 Le projet consiste à aider Juliette Bongout, une étudiante, à lancer une boutique en ligne proposant des coffrets gourmands composés de produits bio. Les coffrets incluront différentes options telles que Petit Déjeuner, Déjeuner, Goûter, Apéro et Surprise. Les articles à inclure dans ces coffrets seront variés : confitures, biscuits, chocolats, pâtes à tartiner, épices, huile, vinaigre, tartinades de légumes, plats cuisinés, thé, etc. L'objectif est de créer une boutique en ligne attrayante et convaincante pour vendre ces coffrets gourmands bio.
