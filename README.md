@@ -8,7 +8,12 @@
 ---
 
 ### Compétences
-
+-Programmation
+-Développement Web
+-Base de données
+-Systèmes d'exploitation
+-Réseaux 
+-Sécurité informatique
 ...
 
 ### Contact
