@@ -7,6 +7,15 @@
 
 ### Compétences
 
+...
+
+### Contact
+
+- Adresse: Votre adresse
+- Numéro de téléphone: Votre numéro
+
+[LinkedIn](lien_vers_votre_profil_LinkedIn)
+
 #### Développement
 
 - SQL
