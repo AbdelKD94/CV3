@@ -22,7 +22,7 @@
 
 
 <a href="https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/">
-  <img src="linkedin.svg" alt="Logo LinkedIn" style="width:100px;height:100px;">
+  <img src="linkedin.svg" alt="LinkedIn" style="width:100px;height:100px;">
 </a>
 
 - Adresse: 5 rue du moulin vert, Vitry-sur-Seine
