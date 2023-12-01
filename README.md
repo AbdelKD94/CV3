@@ -1,30 +1,28 @@
 # CV - Kechad Abdelhafid
 ## Étudiant en informatique
 
-[![Photo de profil](https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE)](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
+<a href="https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE">
+  <img src="https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE" alt="Photo de profil" style="width:200px; height:200px;">
+</a>
 
 ---
 
 ### Compétences
+-Programmation
+-Développement Web
+-Base de données
+-Systèmes d'exploitation
+-Réseaux 
+-Sécurité informatique
 
-- Programmation
-- Développement Web
-- Base de données
-- Systèmes d'exploitation
-- Réseaux 
-- Sécurité informatique
-
----
 
 ### Contact
 
 - Adresse: 5 rue du moulin vert, Vitry-sur-Seine
 - Numéro de téléphone: 07 81 62 66 83
-- [LinkedIn](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
+-[LinkedIn](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
 
----
-
-### Développement
+#### Développement
 
 - SQL
 - HTML
@@ -32,18 +30,14 @@
 - Git
 - Python
 
----
-
-### Réseau
+#### Réseau
 
 - Cisco Packet Tracer
 - Cisco Networking Essentials
 - Systèmes embarqués
 - Modèle OSI
 
----
-
-### Cybersécurité
+#### Cybersécurité
 
 - RGPD 
 - Protection de données personnelles
@@ -118,4 +112,4 @@
 ### Projets
 
 - [Les paniers gourmands](https://multi-taches.github.io/SIO1_GRP1_LPG/a_LPG1/) :
-  Le projet consiste à aider Juliette Bongout, une étudiante, à lancer une boutique en ligne proposant des coffrets gourmands composés de produits bio. Les coffrets incluront différentes options telles que Petit Déjeuner, Déjeuner, Goûter, Apéro et Surprise. Les articles à inclure dans ces coffrets seront variés : confitures, biscuits, chocolats, pâtes à tartiner, épices, huile, vinaigre, tartinades de légumes, plats cuisinés, thé, etc. L'objectif est de créer une boutique en ligne attrayante et convaincante pour vendre ces coffrets gourmands bio.
+Le projet consiste à aider Juliette Bongout, une étudiante, à lancer une boutique en ligne proposant des coffrets gourmands composés de produits bio. Les coffrets incluront différentes options telles que Petit Déjeuner, Déjeuner, Goûter, Apéro et Surprise. Les articles à inclure dans ces coffrets seront variés : confitures, biscuits, chocolats, pâtes à tartiner, épices, huile, vinaigre, tartinades de légumes, plats cuisinés, thé, etc. L'objectif est de créer une boutique en ligne attrayante et convaincante pour vendre ces coffrets gourmands bio.
