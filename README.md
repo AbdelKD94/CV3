@@ -13,7 +13,7 @@
 - Réseaux 
 - Sécurité informatique
 <details>
-<summary>**Compétences** </summary>
+<summary>**Compétences**("details") </summary>
 
 
 ### Contact
