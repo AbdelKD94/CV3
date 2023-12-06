@@ -102,3 +102,46 @@
 ### Expériences professionnelles (hors informatique)
 - Manutentionnaire à Galiote Prenant (3 mois)
 - Agent de production à Glaces Triomphe (4 mois)
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CV - Kechad Abdelhafid</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0; /* Couleur de fond gris clair */
+            padding: 20px;
+            margin: 0;
+        }
+        /* Style pour la section des compétences */
+        .competences {
+            background-color: white; /* Fond blanc pour la section */
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ombre légère */
+        }
+        /* ... Ajoutez d'autres styles pour les sections au besoin ... */
+    </style>
+</head>
+<body>
+
+    <h1>CV - Kechad Abdelhafid</h1>
+    <h2>Étudiant en informatique</h2>
+
+    <!-- Vos autres sections de contenu ici, par exemple la section des compétences -->
+
+    <div class="competences">
+        <h3>Compétences</h3>
+        <ul>
+            <li>Programmation</li>
+            <li>Développement Web</li>
+            <!-- ... Autres compétences ... -->
+        </ul>
+    </div>
+
+    <!-- ... Ajoutez d'autres sections de votre CV ... -->
+
+</body>
+</html>
