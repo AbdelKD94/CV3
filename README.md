@@ -30,7 +30,7 @@
 
 
 <details>
-<summary>**Compétences**</summary>
+<summary>Compétences</summary>
 
 
 
