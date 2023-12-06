@@ -112,4 +112,7 @@
 - [Les paniers gourmands](https://multi-taches.github.io/SIO1_GRP1_LPG/a_LPG1/) :
   Le projet consiste à aider Juliette Bongout, une étudiante, à lancer une boutique en ligne proposant des coffrets gourmands composés de produits bio. Les coffrets incluront différentes options telles que Petit Déjeuner, Déjeuner, Goûter, Apéro et Surprise. Les articles à inclure dans ces coffrets seront variés : confitures, biscuits, chocolats, pâtes à tartiner, épices, huile, vinaigre, tartinades de légumes, plats cuisinés, thé, etc. L'objectif est de créer une boutique en ligne attrayante et convaincante pour vendre ces coffrets gourmands bio.
 
-### Expériences professionn
+### Expériences professionnelles (hors informatique)
+
+- Manutentionnaire à Galiote Prenant (3 mois)
+- Agent de production à Glaces Triomphe (4 mois)
