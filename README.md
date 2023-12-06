@@ -24,6 +24,19 @@
   - Systèmes embarqués
   - Modèle OSI
 
+- **Système et Virtualisation:**
+  - Windows
+    - Administration et maintenance
+    - PowerShell
+    - Active Directory
+  - Linux
+    - Administration système
+    - Bash
+    - MD5
+  - Virtualbox
+  - Docker
+  - VMWare
+
 - **Cybersécurité:**
   - RGPD 
   - Protection de données personnelles
@@ -64,21 +77,6 @@
 
 - PIX
 - Cisco Packet Tracer
-
-#### Système
-- Windows
-  - Administration et maintenance
-  - PowerShell
-  - Active Directory
-- Linux
-  - Administration système
-  - Bash
-  - MD5
-
-#### Virtualisation
-- Virtualbox
-- Docker
-- VMWare
 
 </details>
 
@@ -128,4 +126,11 @@
 </details>
 
 <details>
-<summary><strong>Expériences professionnelles (h
+<summary><strong>Expériences professionnelles (hors informatique)</strong></summary>
+
+### Expériences professionnelles (hors informatique)
+
+- Manutentionnaire à Galiote Prenant (3 mois)
+- Agent de production à Glaces Triomphe (4 mois)
+
+</details>
