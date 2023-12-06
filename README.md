@@ -1,11 +1,32 @@
 # CV - Kechad Abdelhafid
 ## Étudiant en informatique
 
-[<img src="https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE" alt="Photo de profil" width="150">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
+[![Photo de profil](https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE)](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
 
 ---
 
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f6f8fa; /* Couleur de fond */
+    padding: 20px;
+    margin: 0;
+  }
+  .competences {
+    background-color: white; /* Fond blanc pour la section */
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Ombre légère */
+  }
+  .highlighted {
+    font-weight: bold; /* Met en évidence le texte */
+    color: #0366d6; /* Couleur du texte mise en évidence */
+  }
+</style>
+
 ### Compétences
+
 - Programmation
 - Développement Web
 - Base de données
@@ -13,25 +34,8 @@
 - Réseaux 
 - Sécurité informatique
 
-
-
-
-### Contact
-[<img src="linkedin.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
-
-- **Email:** abdel.kechad3@gmail.com
-
-
-
-
----
-
-
-
 <details>
-<summary>Compétences</summary>
-
-
+<summary><span class="highlighted">Compétences</span></summary>
 
 #### Développement
 - SQL
@@ -49,6 +53,11 @@
 #### Cybersécurité
 - RGPD 
 - Protection de données personnelles
+
+</details>
+
+<!-- Le reste de votre CV -->
+
 
 ---
 
