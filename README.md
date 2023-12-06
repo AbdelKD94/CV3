@@ -76,8 +76,11 @@
 ### Certifications
 
 - PIX
-- Cisco Packet Tracer
-
+- Cisco
+ - Packet Tracer
+ - Networking essentials 
+-OpenClasseroom
+ - Concevez votre site web avec php et mysql
 </details>
 
 <details>
@@ -109,9 +112,7 @@
 
 - Sécurité informatique
 - Intelligence artificielle et Machine Learning
-- Cloud Computing
-- Développement Web
-- Privacy Tech
+
 
 </details>
 
