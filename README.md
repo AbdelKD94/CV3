@@ -7,10 +7,10 @@
     <summary><strong>Contact</strong></summary>
 
     [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
-
-    - **Email:** abdel.kechad3@gmail.com
-    - **Adresse:** 5 rue du moulin vert, Vitry-sur-Seine
-    - **Téléphone:** 07 81 62 66 83
+    <br>
+    **Email:** abdel.kechad3@gmail.com
+    <br>
+    **Ville:** Vitry-sur-Seine
   </details>
 </div>
 
@@ -76,7 +76,7 @@
 - Cisco
  - Packet Tracer
  - Networking essentials 
--OpenClasseroom
+- OpenClasseroom
  - Concevez votre site web avec php et mysql
 </details>
 
