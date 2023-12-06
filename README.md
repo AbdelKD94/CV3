@@ -12,7 +12,10 @@
 - Systèmes d'exploitation
 - Réseaux 
 - Sécurité informatique
----
+<details>
+<summary>**Compétences** (cliquez pour développer)</summary>
+
+
 ### Contact
 [<img src="linkedin.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
 - **Adresse:** 5 rue du moulin vert, Vitry-sur-Seine
@@ -24,13 +27,7 @@
 
 ---
 
-### Compétences
-- Programmation
-- Développement Web
-- Base de données
-- Systèmes d'exploitation
-- Réseaux 
-- Sécurité informatique
+
 
 
 
