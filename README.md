@@ -104,7 +104,6 @@
 - Agent de production à Glaces Triomphe (4 mois)
 
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>CV - Kechad Abdelhafid</title>
