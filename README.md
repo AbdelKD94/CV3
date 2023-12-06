@@ -5,37 +5,14 @@
 
 ---
 
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f6f8fa; /* Couleur de fond */
-    padding: 20px;
-    margin: 0;
-  }
-  .competences {
-    background-color: white; /* Fond blanc pour la section */
-    padding: 20px;
-    margin-top: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Ombre légère */
-  }
-  .highlighted {
-    font-weight: bold; /* Met en évidence le texte */
-    color: #0366d6; /* Couleur du texte mise en évidence */
-  }
-</style>
-
 ### Compétences
 
-- Programmation
-- Développement Web
-- Base de données
-- Systèmes d'exploitation
-- Réseaux 
-- Sécurité informatique
+- **Développement:** SQL, HTML, CSS, Git, Python
+- **Réseau:** Cisco Packet Tracer, Cisco Networking Essentials, Systèmes embarqués, Modèle OSI
+- **Cybersécurité:** RGPD, Protection de données personnelles
 
 <details>
-<summary><span class="highlighted">Compétences</span></summary>
+<summary>**Compétences** (cliquez pour développer)</summary>
 
 #### Développement
 - SQL
@@ -56,12 +33,18 @@
 
 </details>
 
-<!-- Le reste de votre CV -->
+### Contact
 
+[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
+
+- **Email:** abdel.kechad3@gmail.com
+- **Adresse:** 5 rue du moulin vert, Vitry-sur-Seine
+- **Téléphone:** 07 81 62 66 83
 
 ---
 
 ### Études
+
 - L1 Administration et échanges internationaux
 - Bac général avec spécialités en
   - Mathématiques
@@ -72,8 +55,12 @@
 ---
 
 ### Certifications
+
 - PIX
 - Cisco Packet Tracer
+
+<details>
+<summary>**Système & Virtualisation**</summary>
 
 #### Système
 - Windows
@@ -90,9 +77,12 @@
 - Docker
 - VMWare
 
+</details>
+
 ---
 
 ### Langues
+
 - Français
 - Anglais
 - Arabe
@@ -100,6 +90,7 @@
 ---
 
 ### Management
+
 - Économie
 - Droit
 - Management Unité Commerciale
@@ -107,6 +98,7 @@
 ---
 
 ### Veille
+
 - Sécurité informatique
 - Intelligence artificielle et Machine Learning
 - Cloud Computing
@@ -116,10 +108,8 @@
 ---
 
 ### Projets
+
 - [Les paniers gourmands](https://multi-taches.github.io/SIO1_GRP1_LPG/a_LPG1/) :
   Le projet consiste à aider Juliette Bongout, une étudiante, à lancer une boutique en ligne proposant des coffrets gourmands composés de produits bio. Les coffrets incluront différentes options telles que Petit Déjeuner, Déjeuner, Goûter, Apéro et Surprise. Les articles à inclure dans ces coffrets seront variés : confitures, biscuits, chocolats, pâtes à tartiner, épices, huile, vinaigre, tartinades de légumes, plats cuisinés, thé, etc. L'objectif est de créer une boutique en ligne attrayante et convaincante pour vendre ces coffrets gourmands bio.
 
-### Expériences professionnelles (hors informatique)
-- Manutentionnaire à Galiote Prenant (3 mois)
-- Agent de production à Glaces Triomphe (4 mois)
-
+### Expériences professionn
