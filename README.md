@@ -12,7 +12,7 @@
 - Systèmes d'exploitation
 - Réseaux 
 - Sécurité informatique
-
+---
 ### Contact
 [<img src="linkedin.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
 - **Adresse:** 5 rue du moulin vert, Vitry-sur-Seine
