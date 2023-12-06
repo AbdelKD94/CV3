@@ -12,8 +12,8 @@
 - Systèmes d'exploitation
 - Réseaux 
 - Sécurité informatique
-<details>
-<summary></summary>
+
+
 
 
 ### Contact
@@ -29,7 +29,7 @@
 
 
 
-
+<summary></summary>
 
 
 #### Développement
