@@ -1,29 +1,11 @@
 # CV - Kechad Abdelhafid
 ## Étudiant en informatique
 
-[![Photo de profil](https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE)](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
+[<img src="https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE" alt="Photo de profil" width="150">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
 
 ---
 
-<style>
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #f0f0f0; /* Couleur de fond gris clair */
-        padding: 20px;
-        margin: 0;
-    }
-
-    .competences {
-        background-color: white; /* Fond blanc pour la section */
-        padding: 20px;
-        margin-top: 20px;
-        border-radius: 10px;
-        box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Ombre légère */
-    }
-</style>
-
 ### Compétences
-
 - Programmation
 - Développement Web
 - Base de données
@@ -31,14 +13,14 @@
 - Réseaux 
 - Sécurité informatique
 
-<div class="competences">
-    <h3>Compétences</h3>
-    <ul>
-        <li>Programmation</li>
-        <li>Développement Web</li>
-        <!-- ... Autres compétences ... -->
-    </ul>
-</div>
+### Contact
+[<img src="linkedin.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
+- **Adresse:** 5 rue du moulin vert, Vitry-sur-Seine
+- **Téléphone:** 07 81 62 66 83
+- **Email:** abdel.kechad3@gmail.com
+
+
+
 
 ---
 
