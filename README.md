@@ -32,13 +32,7 @@
 - Réseaux 
 - Sécurité informatique
 
-### Contact
-[<img src="linkedin.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
-- **Adresse:** 5 rue du moulin vert, Vitry-sur-Seine
-- **Téléphone:** 07 81 62 66 83
-- **Email:** abdel.kechad3@gmail.com
 
-<!-- ... Autres sections inchangées ... -->
 
 
 #### Développement
