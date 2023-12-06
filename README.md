@@ -29,7 +29,9 @@
 
 
 
-<summary></summary>
+<details>
+<summary>**Compétences** (cliquez pour développer)</summary>
+
 
 
 #### Développement
