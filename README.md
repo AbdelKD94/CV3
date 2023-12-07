@@ -1,14 +1,8 @@
-# Kechad Abdelhafid
+# CV - Kechad Abdelhafid
 
-<div style="display: flex; align-items: center;">
-  <img src="https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE" alt="Photo de profil" width="100" style="border-radius: 50%; margin-right: 20px;">
-  
-  [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
-  <br>
-  **Email:** abdel.kechad3@gmail.com
-  <br>
-  **Ville:** Vitry-sur-Seine
-</div>
+## Étudiant en informatique
+
+[<img src="https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE" alt="Photo de profil" width="150">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
 
 ---
 
@@ -50,6 +44,19 @@
 </details>
 
 <details>
+<summary><strong>Contact</strong></summary>
+
+### Contact
+
+[<img src="linkedin.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
+
+- **Email:** abdel.kechad3@gmail.com
+- **Adresse:** 5 rue du moulin vert, Vitry-sur-Seine
+- **Téléphone:** 07 81 62 66 83
+
+</details>
+
+<details>
 <summary><strong>Études</strong></summary>
 
 ### Études
@@ -72,7 +79,7 @@
 - Cisco
  - Packet Tracer
  - Networking essentials 
-- OpenClasseroom
+-OpenClasseroom
  - Concevez votre site web avec php et mysql
 </details>
 
@@ -115,7 +122,7 @@
 ### Projets
 
 - [Les paniers gourmands](https://multi-taches.github.io/SIO1_GRP1_LPG/a_LPG1/) :
-  Le projet consiste à aider Juliette Bongout, une étudiante, à lancer une boutique en ligne proposant des coffrets gourmands composés de produits bio. Les coffrets incluront différentes options telles que Petit Déjeuner, Déjeuner, Goûter, Apéro et Surprise. L'objectif est de créer une boutique en ligne attrayante et convaincante pour vendre ces coffrets gourmands bio.
+  Le projet consiste à aider Juliette Bongout, une étudiante, à lancer une boutique en ligne proposant des coffrets gourmands composés de produits bio. Les coffrets incluront différentes options telles que Petit Déjeuner, Déjeuner, Goûter, Apéro et Surprise. Les articles à inclure dans ces coffrets seront variés : confitures, biscuits, chocolats, pâtes à tartiner, épices, huile, vinaigre, tartinades de légumes, plats cuisinés, thé, etc. L'objectif est de créer une boutique en ligne attrayante et convaincante pour vendre ces coffrets gourmands bio.
 
 </details>
 
