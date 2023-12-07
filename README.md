@@ -4,9 +4,11 @@
 
 [<img src="https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE" alt="Photo de profil" width="150" style="border-radius: 50%;">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
 
--[<img src="github-mark.svg" alt="GitHub" width="30">](https://github.com/AbdelKD94) 
--[<img src="linkedin.svg" alt="LinkedIn" width="30">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
--[<img src="email-svgrepo-com.svg" alt="Email" width="30">](mailto:abdel.kechad3@gmail.com) abdel.kechad3@gmail.com
+#[<img src="github-mark.svg" alt="GitHub" width="30">](https://github.com/AbdelKD94) 
+
+#[<img src="linkedin.svg" alt="LinkedIn" width="30">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
+
+#[<img src="email-svgrepo-com.svg" alt="Email" width="30">](mailto:abdel.kechad3@gmail.com) abdel.kechad3@gmail.com
 
  - Vitry-sur-Seine
 
