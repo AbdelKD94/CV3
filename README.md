@@ -12,10 +12,8 @@
       <a href="https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/">
         <img src="linkedin.svg" alt="LinkedIn" width="30">
       </a>
-      <a href="mailto:abdel.kechad3@gmail.com">
-        <img src="email-svgrepo-com.svg" alt="Email" width="30">
-      </a>
-      abdel.kechad3@gmail.com
+
+  <h3> abdel.kechad3@gmail.com </h3>
     </p>
   </div>
 </div>
