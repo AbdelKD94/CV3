@@ -48,10 +48,10 @@
 
 ### Contact
 
-[<img src="linkedin.svg" alt="LinkedIn" width="50">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
+[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
 
 - **Email:** abdel.kechad3@gmail.com
-- **Adresse:** 5 rue du moulin vert, Vitry-sur-Seine
+- **Adresse:** Vitry-sur-Seine
 - **Téléphone:** 07 81 62 66 83
 
 </details>
@@ -132,6 +132,4 @@
 ### Expériences professionnelles (hors informatique)
 
 - Manutentionnaire à Galiote Prenant (3 mois)
-- Agent de production à Glaces Triomphe (4 mois)
-
-</details>
+- Agent de production à Glaces Triomphe (4 m
