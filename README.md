@@ -68,18 +68,7 @@
 <details>
 <summary><strong>Contact</strong></summary>
 
-### Contact
 
-[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
-
-- **Email:** abdel.kechad3@gmail.com
-- **Adresse:** Vitry-sur-Seine
-- **Téléphone:** 07 81 62 66 83
-
-</details>
-
-<details>
-<summary><strong>Études</strong></summary>
 
 ### Études
 
