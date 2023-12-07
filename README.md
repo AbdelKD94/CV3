@@ -8,7 +8,7 @@
 
 [<img src="linkedin.svg" alt="LinkedIn" width="30">](https://www.linkedin.com/in/abdelhafid-kechad-b957b9220/)
 
-[<img src="email-svgrepo-com.svg" alt="Email" width="30">](mailto:abdel.kechad3@gmail.com) abdel.kechad3@gmail.com
+[<img src="email-svgrepo-com.svg" alt="Email" width="30">](mailto:abdel.kechad3@gmail.com)abdel.kechad3@gmail.com
 
  - Vitry-sur-Seine
 
