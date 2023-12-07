@@ -1,7 +1,6 @@
 <div style="display: flex; align-items: center;">
-  [<img src="https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE" alt="Photo de profil" width="150" style="border-radius: 50%;">]
-  <div style="display: flex; flex-direction: column; margin-left: 20px;">
-    <h1>Kechad Abdelhafid</h1>
+  <img src="https://media.licdn.com/dms/image/D4E03AQHT016nl1YYHg/profile-displayphoto-shrink_800_800/0/1701427469355?e=1706745600&v=beta&t=2vlp0MxgkUuaM6miNGcUeOJxX8fB2T6A3syI9bE-xWE" alt="Photo de profil" width="150" style="border-radius: 50%;">
+  <div style="display: flex; flex-direction: column; margin-left: 20px;">  <h1>Kechad Abdelhafid</h1>
     <h2>Étudiant en informatique</h2>
     <p>Vitry-sur-Seine (94400), FR</p>
     <div style="display: flex;">
@@ -20,6 +19,7 @@
 </div>
 
 
+   
 
 
 
